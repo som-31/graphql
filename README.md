@@ -9,7 +9,6 @@ Implementation of graphql with NodeJs at Server Side and ReactJs at Client Side.
  1. npm install
  2. nodemon app.js
  *Note  : make sure that you have installed the nodemon package using it.
- 
 # Installing the client side 
  cd ../client
  use below commands:
